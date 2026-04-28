@@ -186,7 +186,7 @@ You can either use the above, or any test database and table you have created in
 1. Open a terminal in the `handouts` folder.
 1. Install the dependencies from `requirements.txt` with:
     1. `python3 -m pip install -r requirements.txt` (MacOS / Unix);
-    1. `py -m pip instal -r requirements.txt` (Windows)
+    1. `py -m pip install -r requirements.txt` (Windows)
     1. `python3 -m pip install -r requirements.txt` (GitBash)
 
 ### Part 4.2 - add more code
